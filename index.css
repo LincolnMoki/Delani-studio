@@ -177,3 +177,6 @@ input {
 .overlay-left {
     transform: translateX(-20%);
 }
+.container.right-panel-active .overlay-left {
+    transform: translateX(0);
+}

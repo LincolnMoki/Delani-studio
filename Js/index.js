@@ -14,3 +14,7 @@ $(document).ready(function() {
     $("#development-text").show(500);
     $(this).hide();
   });
+ $("#development-text").click(function() {
+    $("#development").show(500);
+    $(this).hide();
+  });

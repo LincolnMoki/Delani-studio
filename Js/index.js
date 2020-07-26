@@ -18,3 +18,15 @@ $(document).ready(function() {
     $("#development").show(500);
     $(this).hide();
   });
+   
+
+  //Product development toggle
+  $("#product").click(function() {
+    $("#product-text").show(500);
+    $(this).hide();
+  });
+  $("#product-text").click(function() {
+    $("#product").show(500);
+    $(this).hide();
+  });
+  

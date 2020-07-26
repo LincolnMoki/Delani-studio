@@ -10,3 +10,14 @@ body {
   font-family: "PT Sans", sans-serif;
   scroll-behavior: smooth;
 }
+/* Header styling */
+.header {
+  background: url("../Images/backgrounds/h_img.jpg") no-repeat center
+    center/cover;
+  height: 100vh;
+  color: #fff;
+  width: 100%;
+  text-transform: uppercase;
+  position: relative;
+}
+/* Heading styling */

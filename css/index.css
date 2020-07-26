@@ -91,3 +91,8 @@ h2 {
   text-align: center;
   display: none;
 }
+
+/* About section */
+.about {
+  height: 40vh;
+}

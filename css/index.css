@@ -108,3 +108,7 @@ h2 {
   background: url("../Images/backgrounds/c_image.jpg");
   color: #fff;
 }
+form {
+  width: 70%;
+  margin: 0 auto;
+}

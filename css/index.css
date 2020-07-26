@@ -36,3 +36,12 @@ h2 {
   font-size: 1rem;
   text-align: center;
 }
+.mouse-click {
+  position: absolute;
+  top: 93vh;
+  left: 50%;
+  cursor: pointer;
+  animation: bounce 0.5s cubic-bezier(0.5, 0.05, 1, 0.5); /*Apply animation*/
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+}

@@ -94,3 +94,25 @@ $(document).ready(function() {
     $(".portfolio-box-8").mouseleave(function() {
       $(".description-8").hide(1000);
     });
+    // Form validation
+    $("form").submit(function(event) {
+      event.preventDefault();
+      let name = $("#inputName").val();
+      let email = $("#inputEmail").val();
+      let message = $("#inputMessage").val();
+      let error = $(".result").addClass("alert alert-danger");
+      let success = $(".result").addClass("alert alert-success");
+  
+      if (name == "") {
+        error.html("Please enter your name");
+      } else if (email == "") {
+        error.html("Please enter your email");
+      } else if (message == "") {
+        error.html("Please enter a message");
+      } else {
+        success.html(
+          `Hi, ${name}. We've recieved your message. Thanks for reaching out.`
+        );
+      }
+    });
+  });

@@ -103,3 +103,8 @@ h2 {
   height: 60vh;
   color: #fff;
 }
+/* Contact styling */
+.contact {
+  background: url("../Images/backgrounds/c_image.jpg");
+  color: #fff;
+}

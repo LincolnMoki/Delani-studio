@@ -12,7 +12,7 @@ body {
 }
 /* Header styling */
 .header {
-  background: url("./Images/backgrounds/h_img.jpg") no-repeat center
+  background: url("../Images/backgrounds/h_img.jpg") no-repeat center
     center/cover;
   height: 100vh;
   color: #fff;
@@ -99,13 +99,13 @@ h2 {
 
 /* Services section */
 .services {
-  background: url("./Images/backgrounds/s_image.jpg") center center/cover;
+  background: url("../Images/backgrounds/s_image.jpg") center center/cover;
   height: 60vh;
   color: #fff;
 }
 /* Contact styling */
 .contact {
-  background: url("./Images/backgrounds/c_image.jpg");
+  background: url("../Images/backgrounds/c_image.jpg");
   color: #fff;
 }
 form {

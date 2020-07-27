@@ -1,15 +1,4 @@
-
-
-
- 
- 
-      
-      
-     
-      
-       
-     
-  $(document).ready(function() {
+   $(document).ready(function() {
     // Design toggle
     $("#design").click(function() {
       $("#design-text").show(500);

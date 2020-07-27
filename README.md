@@ -2,7 +2,7 @@
 ## PROJECT NAME
  - DELANI STUDIO
  ## Author's Name
- - RonnnyLioncoln
+ - RonnnyLincoln
  
 ## Setup instructions 
  - git clone or download the zip file.
@@ -19,7 +19,6 @@
  - JAVASCRIPT-We used javascript for dynamics.
 
 ## BDD.
-  <img src="images/assets/screen.jpg">
 
   - My Delani studio is basically a one page website that offers services to people easly.
 
@@ -38,7 +37,7 @@
 </video>
 
 ## Project's live Link
- - Github link:https://Ronnylincoln.github.io/delanistudio/
+ - Github link:https://ronnylincoln.github.io/Delani-studio/
 ## Contact information.
  - Email: mwithiamoki@gmail.com.
  - Phone-No: 0720143730.
